@@ -1,6 +1,6 @@
 <p>"💖Quando tudo está errado e confuso, apague tudo e recomece do zero. 💖"</p>
 </blockquote>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/NeuVanessa/NeuVanessa/Master/meugit.gif"><img src="https://github.com/NeuVanessa/NeuVanessa/Master/meugit.gif" width="700" height="450" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/NeuVanessa/NeuVanessa/blob/master/meugit.gif"><img src="https://github.com/NeuVanessa/NeuVanessa/blob/master/meugit.gif" width="700" height="450" style="max-width:100%;"></a></p>
 <p>Olá, me chamo Vanessa Lopes, sou estudante de Análise e Desenvolvimento de sistemas na Unirb, e sou apaixonada por programação, Séries, Anime ,tecnologia em geral.</p>
 <p>Meu primeiro contato com a programação foi em 2012,desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar uma excelente Analista.</p>
 <details>
