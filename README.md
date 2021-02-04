@@ -1,11 +1,13 @@
-<p>"💖Quando tudo está errado e confuso, apague tudo e recomece do zero. 💖"</p>
+
+# HI, Welcome to my git 👋👩‍💻
+<p>"💖When everything is wrong and confused, erase everything and start over from scratch.💖"</p>
 </blockquote>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/NeuVanessa/NeuVanessa/blob/master/meugit.gif"><img src="https://github.com/NeuVanessa/NeuVanessa/blob/master/meugit.gif" width="700" height="450" style="max-width:100%;"></a></p>
-<p>Olá, me chamo Vanessa Lopes, sou estudante de Análise e Desenvolvimento de sistemas na Unirb, e sou apaixonada por programação, Séries, Anime ,tecnologia em geral.</p>
-<p>Meu primeiro contato com a programação foi em 2012,desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar uma excelente Analista.</p>
+<p>Hello, my name is Vanessa Lopes, I'm a student of Systems Analysis and Development at Unirb, and I'm passionate about programming, Series, Anime, technology in general. </p>
+<p> My first contact with programming was in 2012, since then I have been studying daily and I adapted the entire ecosystem around me so that I could "breathe" programming and technology, and that one day I will become an excellent Analyst .</p>
 <details>
 <summary>
-  <strong><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Linguagens <strong>
+  <strong><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Languages <strong>
 </strong></strong></summary><strong><strong>
 <ul>
 <li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/096f44592614aca8eb77c5d382d01fb43150efa7395ab80d88978b12df6c3790/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3036303630363f7374796c653d666c6174266c6f676f3d68746d6c35"><img src="https://camo.githubusercontent.com/096f44592614aca8eb77c5d382d01fb43150efa7395ab80d88978b12df6c3790/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3036303630363f7374796c653d666c6174266c6f676f3d68746d6c35" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-060606?style=flat&amp;logo=html5" style="max-width:100%;"></a></li>
@@ -20,7 +22,7 @@
 </strong></strong></details><strong><strong>
 <details>
 <summary>
-  <strong><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙</g-emoji> EXTRA</strong>
+  <strong><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙</g-emoji> Others</strong>
 </summary>
 <ul>
 <li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aa974410057c5ae9a0523af3cd4f3e3f7cdeb353f0e755643f2bc8a71a621028/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652d3036303630363f7374796c653d666c6174266c6f676f3d4e6f6465"><img src="https://camo.githubusercontent.com/aa974410057c5ae9a0523af3cd4f3e3f7cdeb353f0e755643f2bc8a71a621028/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652d3036303630363f7374796c653d666c6174266c6f676f3d4e6f6465" alt="Node" data-canonical-src="https://img.shields.io/badge/-Node-060606?style=flat&amp;logo=Node" style="max-width:100%;"></a></li>
