@@ -4,7 +4,7 @@
 </blockquote>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/NeuVanessa/NeuVanessa/blob/master/meugit.gif"><img src="https://github.com/NeuVanessa/NeuVanessa/blob/master/meugit.gif" width="700" height="450" style="max-width:100%;"></a></p>
 <p>Hello, my name is Vanessa Lopes, I'm a student of Systems Analysis and Development at Unirb, and I'm passionate about programming, Series, Anime, technology in general. </p>
-<p> My first contact with programming was in 2012, since then I have been studying daily and I adapted the entire ecosystem around me so that I could "breathe" programming and technology, and that one day I will become an excellent Analyst .</p>
+<p> My first contact with programming was in 2007, since then I have been studying daily and I adapted the entire ecosystem around me so that I could "breathe" programming and technology, and that one day I will become an excellent Analyst .</p>
 <details>
 <summary>
   <strong><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Languages <strong>
