@@ -1,6 +1,15 @@
 
-# HI, Welcome to my git 👋👩‍💻
+# Olá, Bem Vindo ao meu perfil Git 👋👩‍💻
 <p>"💖When everything is wrong and confused, erase everything and start over from scratch.💖"</p>
+
+
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/NeuVanessa/count.svg" />
+ </p>
+
 </blockquote>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/NeuVanessa/NeuVanessa/blob/master/meugit.gif"><img src="https://github.com/NeuVanessa/NeuVanessa/blob/master/meugit.gif" width="700" height="450" style="max-width:100%;"></a></p>
 <p>Hello, my name is Vanessa Lopes, I'm a student of Systems Analysis and Development at Unirb, and I'm passionate about programming, Series, Anime, technology in general. </p>
